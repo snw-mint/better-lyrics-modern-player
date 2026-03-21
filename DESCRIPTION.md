@@ -25,4 +25,4 @@ For the best visual experience, ensure that the **"Album Art Background"** optio
 
 ## Compatibility
 
-- Works with Better Lyrics v2.0.5.6+
+- Works with Better Lyrics v2.0.5.6+ 
