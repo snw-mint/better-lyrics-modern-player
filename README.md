@@ -1,6 +1,6 @@
 # Better Lyrics Modern Player
 
-A clean and immersive theme for YouTube Music that transforms the default player with edge-to-edge album art, soft elevations, and a cinematic background.
+A clean and immersive YouTube Music theme featuring edge-to-edge album art, a unified glassmorphic side panel, a redesigned centered player bar, and a cinematic blurred background.
 
 ## Installation
 
@@ -17,8 +17,11 @@ A clean and immersive theme for YouTube Music that transforms the default player
 ### Up Next / Queue
 ![Queue View](images/image1.png)
 
+### Video Mode
+![Video Mode](images/image2.png)
+
 ### Related Content
-![Related Content](images/image2.png)
+![Related Content](images/image3.png)
 
 ## License
 
